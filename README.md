@@ -1,2 +1,2 @@
 # Shopaholic-Site
-practice project using HTML and CSS
+Practice project using HTML and CSS
